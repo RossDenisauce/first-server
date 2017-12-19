@@ -1,0 +1,32 @@
+html{
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+  }
+  body{
+    background: linear-gradient(26deg, #47a6c3, #498e32);
+  
+  }
+  table{
+    border: 2px solid black;
+    float: left;
+    width: 50%;
+  }
+  footer{
+    width: 50%;
+    float: left;
+    text-align: center;
+  }
+  thead{
+    background-color: #830b90;
+    color: white;
+  }
+  th{
+    border-bottom: 1px solid black;
+    text-align: center;
+  }
+  td{
+    text-align: center;
+    background-color: white;
+  }
+  
